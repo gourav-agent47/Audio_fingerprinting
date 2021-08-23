@@ -1,4 +1,4 @@
-#A project by -  
+# A project by -  
   
-##Mayank Katare (IIT Pkd)  
-##Gourav Nishad (IIT Pkd)
+## Mayank Katare (IIT Pkd)  
+## Gourav Nishad (IIT Pkd)
